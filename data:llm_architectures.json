@@ -1,0 +1,14 @@
+[
+    {
+        "name": "BERT",
+        "year": 2018,
+        "paper": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "description": "BERT introduced bidirectional training of Transformer, achieving state-of-the-art performance on various NLP tasks."
+    },
+    {
+        "name": "GPT-3",
+        "year": 2020,
+        "paper": "Language Models are Few-Shot Learners",
+        "description": "GPT-3 demonstrated that large language models can achieve impressive performance on a variety of tasks with few-shot learning."
+    }
+]
